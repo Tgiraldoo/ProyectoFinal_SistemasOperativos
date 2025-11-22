@@ -30,7 +30,7 @@ El proyecto incluye un `Makefile` que gestiona todo el proceso de compilación. 
 make
 
 # Para limpiar los archivos compilados
-make clean
+make clean```
 
 ---
 
