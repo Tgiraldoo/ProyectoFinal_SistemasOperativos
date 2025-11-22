@@ -27,12 +27,10 @@ El proyecto incluye un `Makefile` que gestiona todo el proceso de compilación. 
 
 ```bash
 # Compilar el proyecto 
-make```
+make
 
 # Para limpiar los archivos compilados
-```bash
 make clean
-```
 
 ---
 
